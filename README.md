@@ -11,7 +11,7 @@ Welcome to my GitHub Profile! 🌟
 
 ## My Journey
 
-I've been learning full-stack web development for 4 months and have made steady progress despite starting without a coding background. I'm always curious and eager to learn new programming concepts. My ultimate goal is to create meaningful projects and contribute to open-source communities.
+I have been learning full stack devleopment since that start of my college (September 2024) and I have made steady progress, I believe in understanding the concepts fully rush learning doesn't suits me. I'm always curious and eager to learn new programming concepts. My ultimate goal is to create meaningful projects and contribute to open-source communities.
 
 ## Projects & Interests
 
