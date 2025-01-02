@@ -7,7 +7,7 @@ Welcome to my GitHub Profile! 🌟
 - 🎓 First-year college student exploring the world of programming.
 - 👨‍💻 Passionate about coding, tech, and AI.
 - 💻 Currently learning full-stack web development.
-- 🎯 Focused on mastering algorithms, data structures, and efficient problem-solving.
+- 🎯 Focused on making helpful projects to real world, mastering algorithms, data structures, and efficient problem-solving.
 
 ## My Journey
 
