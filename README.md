@@ -22,7 +22,7 @@ I have been learning full stack devleopment since that start of my college (Sept
 ## Let's Connect
 
 - 💬 Open for collaborations and discussions. Let's create something amazing!
-- 🌐 [GitHub](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/yourusername/) | [Twitter](https://twitter.com/yourusername)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alok-yadav-1389ba317/) | [Twitter](https://x.com/CodeItAlok)
 
 
 
