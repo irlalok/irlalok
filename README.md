@@ -11,7 +11,7 @@ Welcome to my GitHub Profile! 🌟
 
 ## My Journey
 
-I have been learning full stack devleopment since that start of my college (September 2024) and I have made steady progress, I believe in understanding the concepts fully rush learning doesn't suits me. I'm always curious and eager to learn new programming concepts. My ultimate goal is to create meaningful projects and contribute to open-source communities.
+I am learning full stack devleopment(MERN STACK) and I have made steady progress, I believe in understanding the concepts fully.I'm always curious and eager to learn new programming concepts. My ultimate goal is to create meaningful projects and contribute to open-source communities.
 
 ## Skills
 
