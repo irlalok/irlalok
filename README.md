@@ -11,7 +11,7 @@ Welcome to my GitHub Profile! 🌟
 
 ## My Journey
 
-I am learning full stack devleopment(MERN STACK) and I have made steady progress, I believe in understanding the concepts fully.I'm always curious and eager to learn new programming concepts. My ultimate goal is to create meaningful projects and contribute to open-source communities.
+I am a first year college student at IILM University Greater noida and currently I'm learning full stack devleopment in MERN STACK, I believe in understanding the concepts fully and graps the real world use of it. I'm always curious and eager to learn new programming concepts. My ultimate goal is to create meaningful projects and contribute to open-source communities.
 
 ## Skills
 
